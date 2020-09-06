@@ -1,6 +1,7 @@
 // test for interserction with an array of lines
-
 // set up an array of lines
+// thanks to Wally Glutton see: https://www.openprocessing.org/sketch/135314
+// click and drag mouse
 
 float x1, y1, x2, y2, x3, y3, x4, y4;
 
